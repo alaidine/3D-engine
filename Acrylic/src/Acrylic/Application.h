@@ -15,4 +15,3 @@ namespace Acrylic {
 	// To be defined in client
 	Application* CreateApplication();
 }
-
